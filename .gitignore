@@ -1,0 +1,6 @@
+data/
+.DS_Store
+.floyddata
+.floydexpt
+.floydignore
+.ipynb_checkpoints
